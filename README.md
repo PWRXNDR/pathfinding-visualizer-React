@@ -1,1 +1,1 @@
-## Pathfinding Visualizer - Typescript + React
+## Pathfinding Visualizer - React
